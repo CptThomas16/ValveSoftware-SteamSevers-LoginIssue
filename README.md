@@ -1,0 +1,4 @@
+ValveSoftware-SteamSevers-LoginIssue
+====================================
+
+Hello, within the past week when i would try to go to see if there were any servers to play on it would show that there are none, I looked why I could not find any steam servers, it said about the router, but on my other computer with steam everything worked fine. So I thought what programs did i recently download that could cause this, but there were none. So I thought ok i will re-download steam, so I did but when i went to login it said could not access steam make sure you have internet. So I restarted my comp and that did nothing, So i decided to see if i could acess steam at all, so I tried to create a new account ant that worked so then once i was on steam I was able to access my account, but even after I got on my account I still couldn't access the servers. I have no idea what is causing this to happen since i played steam and it worked fine within the past week. Can anyone help me?
